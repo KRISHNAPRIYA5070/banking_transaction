@@ -1,0 +1,27 @@
+# Big Data software installations
+hadoop/hadoop-3.3.6/
+hive/apache-hive-3.1.3-bin/
+hadoop/pig-0.17.0/
+spark/spark-3.5.3-bin-hadoop3/
+
+# Downloaded archives
+*.tar.gz
+*.tgz
+
+# Hadoop generated data
+hadoop/data/
+
+# Hive generated files
+hive/metastore_db/
+hive/derby.log
+derby.log
+hive/spark-warehouse/
+
+# Logs and temporary files
+*.log
+tmp/
+temp/
+
+# Python cache
+__pycache__/
+*.pyc

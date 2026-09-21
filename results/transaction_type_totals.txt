@@ -1,0 +1,4 @@
+Deposit	275000.00
+Payment	33000.00
+Transfer	155000.00
+Withdrawal	74500.00
